@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 function SpaceShip() {
     return(
         <div>
@@ -8,3 +7,4 @@ function SpaceShip() {
         </div>
     )
 }
+
